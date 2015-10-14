@@ -35,6 +35,7 @@ public class BinnaryTreeNode<E> implements Comparable {
         return left;
     }
 
+
     public void setLeft(BinaryTree left) {
         this.left = left;
     }
